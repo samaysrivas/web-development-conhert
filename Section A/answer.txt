@@ -1,0 +1,13 @@
+1. What problem does a Version Control System solve?
+Ans. Version control system solves the conflicts when multiple developer are working on a project simultaniously.
+
+2. Differentiate between Centralized and Distributed VCS.
+Ans. Centralized VCS uses a single server from where all the pull request are addressed which means if the server
+goes down the whole access is lost to previous versions. Whereas, in Distributed VCS every developer has a copy 
+of code and can work on them remotely allowing them to sync later.
+
+3. What is Git and how is it different from GitHub?
+Ans. Git is the Distributed VCS that stores the versions of system Whereas GitHub stores the actual source code.
+
+4. What is a staging area in Git?
+Ans. 
